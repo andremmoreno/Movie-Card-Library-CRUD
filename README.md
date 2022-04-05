@@ -1,4 +1,4 @@
-# Projeto de Movie Cards CRUD!
+# Projeto de Movie Cards CRUD
 
 # Habilidades
 
